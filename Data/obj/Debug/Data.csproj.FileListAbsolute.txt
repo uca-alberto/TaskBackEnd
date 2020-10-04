@@ -1,0 +1,9 @@
+C:\Users\alber\Documents\Visual Studio 2017\Projects\TestBackEnd\Data\bin\Debug\Data.dll.config
+C:\Users\alber\Documents\Visual Studio 2017\Projects\TestBackEnd\Data\bin\Debug\Data.dll
+C:\Users\alber\Documents\Visual Studio 2017\Projects\TestBackEnd\Data\bin\Debug\Data.pdb
+C:\Users\alber\Documents\Visual Studio 2017\Projects\TestBackEnd\Data\bin\Debug\EntityFramework.dll
+C:\Users\alber\Documents\Visual Studio 2017\Projects\TestBackEnd\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alber\Documents\Visual Studio 2017\Projects\TestBackEnd\Data\bin\Debug\EntityFramework.xml
+C:\Users\alber\Documents\Visual Studio 2017\Projects\TestBackEnd\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\alber\Documents\Visual Studio 2017\Projects\TestBackEnd\Data\obj\Debug\Data.dll
+C:\Users\alber\Documents\Visual Studio 2017\Projects\TestBackEnd\Data\obj\Debug\Data.pdb
